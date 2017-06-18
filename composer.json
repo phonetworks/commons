@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^5.7",
+	      "phpdocumentor/phpdocumentor": "*",
+        "fzaninotto/faker": "^1.6",
+        "psy/psysh": "*",
+        "squizlabs/php_codesniffer": "^2.5"
+    }
+}
