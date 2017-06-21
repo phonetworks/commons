@@ -5,6 +5,7 @@
         "fzaninotto/faker": "^1.6",
         "psy/psysh": "*",
         "squizlabs/php_codesniffer": "^2.5",
-	    "roave/security-advisories": "dev-master"
+	    "roave/security-advisories": "dev-master",
+	    "mockery/mockery": "dev-master"
     }
 }
