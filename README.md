@@ -1,3 +1,5 @@
+![Graph](https://github.com/phonetworks/commons-php/raw/master/.github/cover2.jpg "Phở Networks")
+
 # commons-php
 A repository of common files shared by Pho stack PHP projects.
 
