@@ -7,6 +7,10 @@ A repository of common files shared by Pho stack PHP projects.
 
 * Use logging.
 * info for debugging, warning for serious issues.
+* PSR-1 and PSR-2
+* \_ prefix for in-class helper methods
+* \_\_ prefix for duplicate method names imported from traits.
+* "hy" prefix for "hydrated" methods.
 
 
 ## Directory Structure
