@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "phpformatter.composer": true,
+    "window.zoomLevel": 1,
+    "editor.quickSuggestionsDelay": 0,
+    "editor.tabCompletion": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "html.format.enable": false
+}
