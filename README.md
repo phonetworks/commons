@@ -25,3 +25,8 @@ A repository of common files shared by Pho stack PHP projects.
 * Run ```vendor/bin/phpcs --report=diff src``` for a more detailed look.
 * Use ```vendor/bin/phpcbf src``` to fix non-standard coding.
 * Run ```vendor/bin/phpunit``` again to avoid any potential problems with php_codesniffer.
+
+## Links
+
+* https://github.com/thephpleague/skeleton
+* http://www.php-fig.org/
